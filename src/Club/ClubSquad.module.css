@@ -1,0 +1,14 @@
+.squad-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+}
+
+.squad-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.squad-container li {
+    margin: 5px 0;
+}
